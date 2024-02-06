@@ -2,7 +2,7 @@
 
 My name is Gabriela de Queiroz and I'm a Cloud Advocate at Microsoft. 
 
-- 👨‍💻 &nbsp;Read more about here at [k-roz.com](https://k-roz.com)
+- 👨‍💻 &nbsp;Read more about me at [k-roz.com](https://k-roz.com)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
