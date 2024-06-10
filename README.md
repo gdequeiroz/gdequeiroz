@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-My name is Gabriela de Queiroz and I'm a Cloud Advocate at Microsoft. 
+My name is Gabriela de Queiroz and I'm a Director of AI at Microsoft. 
 
 - 👨‍💻 &nbsp;Read more about me at [k-roz.com](https://k-roz.com)
 
